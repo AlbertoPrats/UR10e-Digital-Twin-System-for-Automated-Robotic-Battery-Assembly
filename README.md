@@ -1,5 +1,5 @@
 # DigitalTwin
-Digital_Twin_System_for_Automated_Robotic_Battery_Assembly
+Digital Twin System for Automated Robotic Battery Assembly
 
 Author: Alberto Prats Ferrandis.
 
