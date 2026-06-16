@@ -25,6 +25,7 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
 ## 🎬 Visual Demonstration
 
 ![Digital Twin Assembly Demo](showcase-videos/assembly/assembly1fast.gif)
+![Digital Twin Assembly Demo2](showcase-videos/manual/manual-assembly2fast.gif)
 
 ---
 
