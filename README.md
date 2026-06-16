@@ -23,6 +23,7 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
 ## 🎬 Visual Demonstration
 <details>
 <summary>📦 <b>Click here to expand the visual demonstration</b></summary>
+  
 ![Digital Twin Assembly Demo](showcase-videos/assembly/assembly1fast.gif)
   Automatic assembly 1 (sped up)
 ![Digital Twin Assembly Demo2](showcase-videos/manual/manual-assembly2fast.gif)
@@ -31,6 +32,7 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
   Automatic assembly 3 (sped up)
 ![Digital Twin Assembly Demo4](showcase-videos/disassembly/disassembly3fast.gif)
   Disassembly 3 (sped up)
+  
 </details>
 ---
 
