@@ -8,7 +8,7 @@
 
 ## 📊 Project Overview
 
-[![Project Type](https://img.shields.io/badge/Project-Robotic%20Teleoperation/Digital%20Twin-blue.svg)](#)
+[![Project Type](https://img.shields.io/badge/Project-Robotic%20Teleoperation%20/%20Digital%20Twin-blue.svg)](#)
 [![Robot](https://img.shields.io/badge/Robot-UR10e-red.svg)](https://www.universal-robots.com/)
 [![Python Version](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org/)
 [![Simulation](https://img.shields.io/badge/Simulation-RoboDK%20v5.9.0-orange.svg)](https://robodk.com/)
