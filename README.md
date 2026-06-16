@@ -1,5 +1,3 @@
-
-
 # Digital Twin System for Automated Robotic Battery Assembly
 
 <p align="center">
@@ -23,10 +21,17 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
 ---
 
 ## 🎬 Visual Demonstration
-
+<details>
+<summary>📦 <b>Click here to expand the visual demonstration</b></summary>
 ![Digital Twin Assembly Demo](showcase-videos/assembly/assembly1fast.gif)
+  Automatic assembly 1 (sped up)
 ![Digital Twin Assembly Demo2](showcase-videos/manual/manual-assembly2fast.gif)
-
+  Manual assembly 2 (sped up)
+![Digital Twin Assembly Demo3](showcase-videos/assembly/assembly3fast.gif)
+  Automatic assembly 3 (sped up)
+![Digital Twin Assembly Demo4](showcase-videos/disassembly/disassembly3fast.gif)
+  Disassembly 3 (sped up)
+</details>
 ---
 
 ## 🛠️ Technical Specifications & Prerequisites
