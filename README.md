@@ -8,7 +8,7 @@
 
 ## 📊 Project Overview
 
-[![Thesis](https://img.shields.io/badge/Thesis-Bachelor's%20Degree-blue.svg)](rua.pdf)
+[![Project Type](https://img.shields.io/badge/Project-Robotic%20Teleoperation/Digital%20Twin-blue.svg)](#)
 [![Python Version](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-PyQt6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![Simulation](https://img.shields.io/badge/Simulation-RoboDK%20v5.9.0-orange.svg)](https://robodk.com/)
