@@ -9,10 +9,10 @@
 ## 📊 Project Overview
 
 [![Project Type](https://img.shields.io/badge/Project-Robotic%20Teleoperation/Digital%20Twin-blue.svg)](#)
-[![Python Version](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Framework-PyQt6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
-[![Simulation](https://img.shields.io/badge/Simulation-RoboDK%20v5.9.0-orange.svg)](https://robodk.com/)
 [![Robot](https://img.shields.io/badge/Robot-UR10e-red.svg)](https://www.universal-robots.com/)
+[![Python Version](https://img.shields.io/badge/Python-3.10-green.svg)](https://www.python.org/)
+[![Simulation](https://img.shields.io/badge/Simulation-RoboDK%20v5.9.0-orange.svg)](https://robodk.com/)
+[![Framework](https://img.shields.io/badge/Framework-PyQt6-yellow.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 
 This repository contains the necessary files to configure, deploy, and execute the developed **Digital Twin System** for automated robotic battery module assembly and disassembly. Developed as a Bachelor's Thesis project, this framework demonstrates the feasibility and advantages of combining digital twins with industrial systems to enhance human-robot collaboration, optimal safety control, and process optimization.
 
