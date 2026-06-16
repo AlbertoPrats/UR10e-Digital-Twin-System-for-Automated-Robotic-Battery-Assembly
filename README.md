@@ -91,9 +91,6 @@ The main module `ui.py` relies heavily on internal references. **Do not change a
    python ui.py
 
 
-
-
-
 This system has been developed for a thesis project in collaboration with Selene Delgado Pastor.
 
 Use of this code or structure is encouraged, with the right considerations stated below. Any additional work or use of the results, virtual model or code must make reference to at least one of the authors.
