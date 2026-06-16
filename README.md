@@ -96,7 +96,7 @@ The main module `ui.py` relies heavily on internal references. **Do not change a
 
 This system has been developed for a thesis project in collaboration with Selene Delgado Pastor.
 
-Use of this code or structure is encouraged, with the right considerations stated below. Reading the thesis before expanding on these files is recomended. Any additional work or use of the results, virtual model or code must make reference to at least one of the authors.
+Use of this code or structure is encouraged, with the right considerations stated below. Any additional work or use of the results, virtual model or code must make reference to at least one of the authors.
 
 The software developed and presented within this thesis has been tested and validated exclusively within the defined scope and under the specific conditions described throughout the project in the controlled laboratory conditions at the University of Skövde / ASSAR Innovation Arena. Any modification of the source code, execution outside the recommended hardware or software environment, or use beyond the scenarios and safety assumptions established in the thesis falls entirely outside the intended design. Therefore, the authors do not assume any responsibility or liability for potential malfunctions, unintended behaviors, or damages resulting from such uses or ocurring outside the authors' supervision. The use of the software developed must be executed with constant supervision of a trained individual. It is the responsibility of any third party using this code to ensure proper validation and risk assessment before deployment.
 
