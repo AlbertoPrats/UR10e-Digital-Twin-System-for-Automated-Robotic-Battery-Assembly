@@ -34,6 +34,7 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
 ![Digital Twin Assembly Demo3](showcase-videos/assembly/assembly3fast.gif)
 
   Disassembly 3 (sped up):
+  
 ![Digital Twin Assembly Demo4](showcase-videos/disassembly/disassembly3fast.gif)
 
   
