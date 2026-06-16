@@ -23,7 +23,8 @@ The system features a custom-built Graphical User Interface (GUI) that enables b
 ## 🎬 Visual Demonstration
 
 <p align="center">
-  <video src="showcase-videos/assembly/assembly1fast.mp4" width="100%" max-width="800px" controls>
+  <video src="https://github.com/AlbertoPrats/Digital-Twin-System-for-Automated-Robotic-Battery-Assembly/raw/main/showcase-videos/assembly/assembly1fast.mp4" width="100%" style="max-width: 800px;" autoplay loop muted playsinline controls>
+    Your browser does not support the video tag.
   </video>
 </p>
 
