@@ -90,7 +90,6 @@ The main module `ui.py` relies heavily on internal references. **Do not change a
    ```bash
    python ui.py
 
-
 This system has been developed for a thesis project in collaboration with Selene Delgado Pastor.
 
 The software developed and presented within this repository has been tested and validated exclusively within the defined scope and under the specific conditions described throughout the project in the controlled laboratory conditions at the University of Skövde / ASSAR Innovation Arena. Any modification of the source code, execution outside the recommended hardware or software environment, or use beyond the scenarios and safety assumptions established in the thesis fall entirely outside the intended design.
